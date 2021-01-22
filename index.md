@@ -1,0 +1,2 @@
+### Acknowledgements
+These simulations were run on the Institutional Computing clusters at Los Alamos National Laboratory under allocation award w19_rhdccasims (PI: T. Waters).  We thank the [high performance computing team](https://www.lanl.gov/org/ddste/aldsc/hpc/index.php) for their continued efforts, as well as the developers of the public GRMHD code [Athena++](https://github.com/PrincetonUniversity/athena-public-version/graphs/contributors). 
