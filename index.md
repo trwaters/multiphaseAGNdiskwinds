@@ -14,7 +14,7 @@ Below is an animated version of Fig. 8, showing our hi-res run that has an extra
 This increase in resolution is sufficient to resolve the [vortex shedding](https://en.wikipedia.org/wiki/Vortex_shedding) process that accompanies the appearance of IAFs.  
 
 Finally, here is an animated version of the snapshots from in Fig. 11, showing maps of the ionization structure rather than the number density.
-<video poster="xi.png" width="675" height="750" controls preload> 
+<video poster="hires_xipreview.png" width="675" height="750" controls preload> 
     <source src="hires_xi.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="hires_xi.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
