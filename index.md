@@ -13,6 +13,10 @@ Starting around t=1200, the brown gas engulfed within the crest of the IAF can b
 
 ### Hi-res runs
 Below is an animated version of Fig. 8, showing our hi-res run that has an extra level of static mesh refinement (so dx is about half as small). This increase in resolution is sufficient to resolve the [vortex shedding](https://en.wikipedia.org/wiki/Vortex_shedding) process that accompanies the appearance of IAFs.  Akin to uniform flow past a cylinder, IAFs are obstructions to the smooth disk wind.  
+<video poster="midres_npreview.png" width="675" height="750" controls preload> 
+    <source src="hires_n-zoom.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="hires_n-zoom.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
 
 Finally, here is an animated version of the snapshots from in Fig. 11, showing maps of the ionization structure rather than the number density.
 <video poster="hires_xipreview.png" width="675" height="750" controls preload> 
