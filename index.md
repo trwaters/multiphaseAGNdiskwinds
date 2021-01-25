@@ -9,6 +9,8 @@ Here we show an animated version of Fig. 6 that zooms into the region within 100
     <source src="midres_n-zoom.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
+Starting around t=1200, the brown gas engulfed within the crest of the IAF can be seen becoming a more whitish color, indicating that the gas is becoming more rarefied due to a rise in temperature.  TI is continuously operating within this gas, hence continuous heating is taking place.  This also takes place within the bubbles underneath the IAFs.
+
 ### Hi-res runs
 Below is an animated version of Fig. 8, showing our hi-res run that has an extra level of static mesh refinement (so dx is about half as small). This increase in resolution is sufficient to resolve the [vortex shedding](https://en.wikipedia.org/wiki/Vortex_shedding) process that accompanies the appearance of IAFs.  Akin to uniform flow past a cylinder, IAFs are obstructions to the smooth disk wind.  
 
