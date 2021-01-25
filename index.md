@@ -15,7 +15,7 @@ Next we show an animated version of Fig. 6 that zooms into the region within 100
     <source src="midres_n-zoom.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-Starting around t=1200, the brown gas engulfed within the crest of the IAF can be seen becoming a more whitish color, indicating that the gas is becoming more rarefied due to a rise in temperature.  TI is continuously operating within this gas, hence continuous heating is taking place.  This also takes place within the bubbles underneath the IAFs.
+Starting around t=1200, the brown gas engulfed within the crest of the IAF can be seen becoming a more whitish color, indicating that the gas is becoming more rarefied due to a rise in temperature.  TI is continuously operating within this gas, hence continuous heating is taking place.  This can also be seen happening within the bubbles underneath the IAFs.
 
 Here is an animated version of Fig. 9 showing the full domain.  Starting from t=1200, we evolve for 1.6 orbits at r_out, long enough to reach a fully developed clumpy wind solution.  For NGC 5548, the system we used to derive characteristic heating and cooling rates, this corresponds to 6 Myr of evolution.  
 <video poster="midres_nfull-preview.png" width="675" height="750" controls preload> 
