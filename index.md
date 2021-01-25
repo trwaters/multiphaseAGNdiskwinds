@@ -10,8 +10,7 @@ Here we show an animated version of Fig. 6 that zooms into the region within 100
 </video>
 
 ### Hi-res runs
-Below is an animated version of Fig. 8, showing our hi-res run that has an extra level of statish mesh refinement (so dx is about half as small).  
-This increase in resolution is sufficient to resolve the [vortex shedding](https://en.wikipedia.org/wiki/Vortex_shedding) process that accompanies the appearance of IAFs.  
+Below is an animated version of Fig. 8, showing our hi-res run that has an extra level of static mesh refinement (so dx is about half as small). This increase in resolution is sufficient to resolve the [vortex shedding](https://en.wikipedia.org/wiki/Vortex_shedding) process that accompanies the appearance of IAFs.  Akin to uniform flow past a cylinder, IAFs are obstructions to the smooth disk wind.  
 
 Finally, here is an animated version of the snapshots from in Fig. 11, showing maps of the ionization structure rather than the number density.
 <video poster="hires_xipreview.png" width="675" height="750" controls preload> 
