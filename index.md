@@ -2,7 +2,7 @@
 The animations below are of time-dependent solutions to the equations of non-adiabatic gas dynamics described in this [submitted paper](https://arxiv.org/abs/2101.09273), designed to model the parsec-scale environments of AGN accretion disks that are being subjected to irradiation by ionizing X-ray photons (assumed to be produced in a hot corona in the immediate vicinity of the supermassive black hole).  These are axisymmetric (2.5D) calculations performed in spherical coordinates using [Athena++](https://github.com/PrincetonUniversity/athena-public-version/wiki) (v19).  For further details on the numerics, see the appendix of the paper.  
 
 ### Mid-res runs
-Here is a movie of the initial evolution starting from constant pressure initial conditions.  This shows the 'construction' of the full thermal wind solution consistent with the imposed boundary conditions.  The final state -- a disk atmosphere and a tenuous disk wind -- is insensitive to the initial conditions.  In all of the runs below, time is shown in units of the Keplerian orbital time at 1 R_IC.
+Here is a movie of the initial evolution starting from constant pressure initial conditions.  This shows the 'construction' of the full thermal wind solution consistent with the imposed boundary conditions.  The final state -- a disk atmosphere and a tenuous disk wind -- is insensitive to the initial conditions.  In all of the runs below, time is shown in units of the Keplerian orbital period at 1 R_IC.
 <video poster="midres_nICs.png" width="675" height="750" controls preload> 
     <source src="midres_n-early.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="midres_n-early.mp4" media="only screen and (max-device-width: 568px)"></source> 
@@ -30,7 +30,7 @@ Below is an animated version of Fig. 8, showing our hi-res run that has an extra
     <source src="hires_nzoom.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-Finally, here is an animated version of the snapshots from in Fig. 11, showing maps of the ionization structure rather than the number density.
+Finally, here is an animated version of the snapshots in Fig. 11, showing maps of the ionization structure rather than the number density.
 <video poster="hires_xipreview.png" width="675" height="750" controls preload> 
     <source src="hires_xi.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="hires_xi.mp4" media="only screen and (max-device-width: 568px)"></source> 
