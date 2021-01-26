@@ -37,6 +37,7 @@ Finally, here is an animated version of the snapshots in Fig. 11, showing maps o
 </video>
 
 For this run, we also computed synthetic X-ray line profiles along two lines of sight through the multiphase region and found that the K-alpha lines of Fe XXV and Fe XXVI can feature multiple absorption troughs.  Strong X-ray lines such as O VIII Ly-alpha show a more gradual desaturation compared to smooth stages of evolution.  For details on this, please refer to our discussion section and Fig. 14. 
+
 ![synthetic line profiles](webpageLPs.png)
 
 ### Acknowledgements
